@@ -1,0 +1,84 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\burl{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\bibcommenthead
+
+\bibitem{yehElectromagneticPropagationBirefringent1979}
+\bibinfo{author}{Yeh, P.}
+\newblock \bibinfo{title}{Electromagnetic propagation in birefringent layered
+  media} .
+
+\bibitem{liPhotonicBandStructures2003}
+\bibinfo{author}{Li, Z.-Y.} \& \bibinfo{author}{Lin, L.-L.}
+\newblock \bibinfo{title}{Photonic band structures solved by a plane-wave-based
+  transfer-matrix method} .
+
+\bibitem{mackayTransferMatrixMethodElectromagnetics2020}
+\bibinfo{author}{Mackay, T.~G.} \& \bibinfo{author}{Lakhtakia, A.}
+\newblock \emph{\bibinfo{title}{The {{Transfer-Matrix Method}} in
+  {{Electromagnetics}} and {{Optics}}}} Synthesis {{Lectures}} on
+  {{Electromagnetics}} (\bibinfo{publisher}{Springer International
+  Publishing}).
+\newblock \urlprefix\url{https://link.springer.com/10.1007/978-3-031-02022-3}.
+
+\bibitem{chenWavevectorspaceMethodWave1993}
+\bibinfo{author}{Chen, B.} \& \bibinfo{author}{Nelson, D.~F.}
+\newblock \bibinfo{title}{Wave-vector-space method for wave propagation in
+  bounded media} \textbf{\bibinfo{volume}{48}}, \bibinfo{pages}{15365--15371}.
+\newblock \urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.48.15365}.
+
+\bibitem{nelsonDerivingTransmissionReflection1995}
+\bibinfo{author}{Nelson, D.~F.}
+\newblock \bibinfo{title}{Deriving the transmission and reflection coefficients
+  of an optically active medium without using boundary conditions}
+  \textbf{\bibinfo{volume}{51}}, \bibinfo{pages}{6142--6153}.
+\newblock \urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevE.51.6142}.
+
+\bibitem{landryCompleteMethodDetermine1995}
+\bibinfo{author}{Landry, G.~D.} \& \bibinfo{author}{Maldonado, T.~A.}
+\newblock \bibinfo{title}{Complete method to determine transmission and
+  reflection characteristics at a planar interface between arbitrarily oriented
+  biaxial media} \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{2048}.
+\newblock
+  \urlprefix\url{https://opg.optica.org/abstract.cfm?URI=josaa-12-9-2048}.
+
+\bibitem{abdulhalimExactMatrixMethod1999}
+\bibinfo{author}{Abdulhalim, I.}
+\newblock \bibinfo{title}{Exact 2 \texttimes{} 2 matrix method for the
+  transmission and reflection at the interface between two arbitrarily oriented
+  biaxial crystals} \textbf{\bibinfo{volume}{1}}, \bibinfo{pages}{655--661}.
+\newblock
+  \urlprefix\url{https://iopscience.iop.org/article/10.1088/1464-4258/1/6/301}.
+
+\bibitem{mcleodVectorFourierOptics2014}
+\bibinfo{author}{McLeod, R.~R.} \& \bibinfo{author}{Wagner, K.~H.}
+\newblock \bibinfo{title}{Vector {{Fourier}} optics of anisotropic materials}
+  \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{368}.
+\newblock
+  \urlprefix\url{https://opg.optica.org/aop/abstract.cfm?uri=aop-6-4-368}.
+
+\bibitem{asoubarSimulationBirefringenceEffects2015}
+\bibinfo{author}{Asoubar, D.}, \bibinfo{author}{Zhang, S.} \&
+  \bibinfo{author}{Wyrowski, F.}
+\newblock \bibinfo{title}{Simulation of birefringence effects on the dominant
+  transversal laser resonator mode caused by anisotropic crystals}
+  \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{13848}.
+\newblock
+  \urlprefix\url{https://opg.optica.org/abstract.cfm?URI=oe-23-11-13848}.
+
+\bibitem{changWavePropagationBianisotropic2014}
+\bibinfo{author}{Chang, P.-H.}, \bibinfo{author}{Kuo, C.-Y.} \&
+  \bibinfo{author}{Chern, R.-L.}
+\newblock \bibinfo{title}{Wave propagation in bianisotropic metamaterials:
+  Angular selective transmission} .
+
+\bibitem{chernChiralSurfaceWaves2017}
+\bibinfo{author}{Chern, R.-L.} \& \bibinfo{author}{Yu, Y.-Z.}
+\newblock \bibinfo{title}{Chiral surface waves on hyperbolic-gyromagnetic
+  metamaterials} .
+
+\end{thebibliography}
